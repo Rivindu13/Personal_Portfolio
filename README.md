@@ -23,7 +23,7 @@ This is my personal portfolio website showcasing my skills, projects, and educat
 - Contact
 
 ## 🌐 Live Preview
-(Coming soon)
+https://rivindu13.github.io/Personal_Portfolio/
 
 
 ---
